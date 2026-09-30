@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("treker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee06b56f6f4708fa85e722cbf30010d96f663e1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc6cbd86a4bec290b4654b926e407815615d932f")]
 [assembly: System.Reflection.AssemblyProductAttribute("treker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("treker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

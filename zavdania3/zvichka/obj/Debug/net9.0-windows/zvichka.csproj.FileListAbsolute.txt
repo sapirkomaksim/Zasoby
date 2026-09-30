@@ -1,0 +1,15 @@
+D:\zasoby\zavdania3\zvichka\bin\Debug\net9.0-windows\zvichka.exe
+D:\zasoby\zavdania3\zvichka\bin\Debug\net9.0-windows\zvichka.deps.json
+D:\zasoby\zavdania3\zvichka\bin\Debug\net9.0-windows\zvichka.runtimeconfig.json
+D:\zasoby\zavdania3\zvichka\bin\Debug\net9.0-windows\zvichka.dll
+D:\zasoby\zavdania3\zvichka\bin\Debug\net9.0-windows\zvichka.pdb
+D:\zasoby\zavdania3\zvichka\obj\Debug\net9.0-windows\zvichka.GeneratedMSBuildEditorConfig.editorconfig
+D:\zasoby\zavdania3\zvichka\obj\Debug\net9.0-windows\zvichka.AssemblyInfoInputs.cache
+D:\zasoby\zavdania3\zvichka\obj\Debug\net9.0-windows\zvichka.AssemblyInfo.cs
+D:\zasoby\zavdania3\zvichka\obj\Debug\net9.0-windows\zvichka.csproj.CoreCompileInputs.cache
+D:\zasoby\zavdania3\zvichka\obj\Debug\net9.0-windows\zvichka.sourcelink.json
+D:\zasoby\zavdania3\zvichka\obj\Debug\net9.0-windows\zvichka.dll
+D:\zasoby\zavdania3\zvichka\obj\Debug\net9.0-windows\refint\zvichka.dll
+D:\zasoby\zavdania3\zvichka\obj\Debug\net9.0-windows\zvichka.pdb
+D:\zasoby\zavdania3\zvichka\obj\Debug\net9.0-windows\zvichka.genruntimeconfig.cache
+D:\zasoby\zavdania3\zvichka\obj\Debug\net9.0-windows\ref\zvichka.dll
