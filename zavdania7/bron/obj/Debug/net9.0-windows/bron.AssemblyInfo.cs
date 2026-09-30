@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bron")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f75555be4c5e8a6894f1e9639d98cc7940868d4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a05aca130e0a98469b51338fc3aa717af9e30dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("bron")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bron")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

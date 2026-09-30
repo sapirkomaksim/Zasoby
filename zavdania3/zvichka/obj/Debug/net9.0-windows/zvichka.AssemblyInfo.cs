@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zvichka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc6cbd86a4bec290b4654b926e407815615d932f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a05aca130e0a98469b51338fc3aa717af9e30dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("zvichka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zvichka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

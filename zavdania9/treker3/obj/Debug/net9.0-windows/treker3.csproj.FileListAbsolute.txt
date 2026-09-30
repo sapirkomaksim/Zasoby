@@ -1,0 +1,15 @@
+D:\zasoby\zavdania9\treker3\bin\Debug\net9.0-windows\treker3.exe
+D:\zasoby\zavdania9\treker3\bin\Debug\net9.0-windows\treker3.deps.json
+D:\zasoby\zavdania9\treker3\bin\Debug\net9.0-windows\treker3.runtimeconfig.json
+D:\zasoby\zavdania9\treker3\bin\Debug\net9.0-windows\treker3.dll
+D:\zasoby\zavdania9\treker3\bin\Debug\net9.0-windows\treker3.pdb
+D:\zasoby\zavdania9\treker3\obj\Debug\net9.0-windows\treker3.GeneratedMSBuildEditorConfig.editorconfig
+D:\zasoby\zavdania9\treker3\obj\Debug\net9.0-windows\treker3.AssemblyInfoInputs.cache
+D:\zasoby\zavdania9\treker3\obj\Debug\net9.0-windows\treker3.AssemblyInfo.cs
+D:\zasoby\zavdania9\treker3\obj\Debug\net9.0-windows\treker3.csproj.CoreCompileInputs.cache
+D:\zasoby\zavdania9\treker3\obj\Debug\net9.0-windows\treker3.sourcelink.json
+D:\zasoby\zavdania9\treker3\obj\Debug\net9.0-windows\treker3.dll
+D:\zasoby\zavdania9\treker3\obj\Debug\net9.0-windows\refint\treker3.dll
+D:\zasoby\zavdania9\treker3\obj\Debug\net9.0-windows\treker3.pdb
+D:\zasoby\zavdania9\treker3\obj\Debug\net9.0-windows\treker3.genruntimeconfig.cache
+D:\zasoby\zavdania9\treker3\obj\Debug\net9.0-windows\ref\treker3.dll

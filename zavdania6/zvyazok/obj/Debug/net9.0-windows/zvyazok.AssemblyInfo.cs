@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zvyazok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9de3de7de4e0734d2563229e102d3f5d65917a3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a05aca130e0a98469b51338fc3aa717af9e30dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("zvyazok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zvyazok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

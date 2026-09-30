@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ekoslid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f608ee13e4f44f88392ae39cb4196616e32265")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a05aca130e0a98469b51338fc3aa717af9e30dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ekoslid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ekoslid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
