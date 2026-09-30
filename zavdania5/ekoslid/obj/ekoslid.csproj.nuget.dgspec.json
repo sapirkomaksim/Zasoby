@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\zasoby\\zavdania4\\treker2\\treker2.csproj": {}
+    "D:\\zasoby\\zavdania5\\ekoslid\\ekoslid.csproj": {}
   },
   "projects": {
-    "d:\\zasoby\\zavdania4\\treker2\\treker2.csproj": {
+    "D:\\zasoby\\zavdania5\\ekoslid\\ekoslid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\zasoby\\zavdania4\\treker2\\treker2.csproj",
-        "projectName": "treker2",
-        "projectPath": "d:\\zasoby\\zavdania4\\treker2\\treker2.csproj",
+        "projectUniqueName": "D:\\zasoby\\zavdania5\\ekoslid\\ekoslid.csproj",
+        "projectName": "ekoslid",
+        "projectPath": "D:\\zasoby\\zavdania5\\ekoslid\\ekoslid.csproj",
         "packagesPath": "C:\\Users\\sapir\\.nuget\\packages\\",
-        "outputPath": "d:\\zasoby\\zavdania4\\treker2\\obj\\",
+        "outputPath": "D:\\zasoby\\zavdania5\\ekoslid\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

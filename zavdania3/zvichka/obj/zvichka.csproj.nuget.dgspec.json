@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\zasoby\\zavdania3\\zvichka\\zvichka.csproj": {}
+    "d:\\zasoby\\zavdania3\\zvichka\\zvichka.csproj": {}
   },
   "projects": {
-    "D:\\zasoby\\zavdania3\\zvichka\\zvichka.csproj": {
+    "d:\\zasoby\\zavdania3\\zvichka\\zvichka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\zasoby\\zavdania3\\zvichka\\zvichka.csproj",
+        "projectUniqueName": "d:\\zasoby\\zavdania3\\zvichka\\zvichka.csproj",
         "projectName": "zvichka",
-        "projectPath": "D:\\zasoby\\zavdania3\\zvichka\\zvichka.csproj",
+        "projectPath": "d:\\zasoby\\zavdania3\\zvichka\\zvichka.csproj",
         "packagesPath": "C:\\Users\\sapir\\.nuget\\packages\\",
-        "outputPath": "D:\\zasoby\\zavdania3\\zvichka\\obj\\",
+        "outputPath": "d:\\zasoby\\zavdania3\\zvichka\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

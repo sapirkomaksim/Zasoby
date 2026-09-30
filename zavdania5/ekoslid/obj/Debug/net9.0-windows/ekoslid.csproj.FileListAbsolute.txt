@@ -1,0 +1,15 @@
+D:\zasoby\zavdania5\ekoslid\bin\Debug\net9.0-windows\ekoslid.exe
+D:\zasoby\zavdania5\ekoslid\bin\Debug\net9.0-windows\ekoslid.deps.json
+D:\zasoby\zavdania5\ekoslid\bin\Debug\net9.0-windows\ekoslid.runtimeconfig.json
+D:\zasoby\zavdania5\ekoslid\bin\Debug\net9.0-windows\ekoslid.dll
+D:\zasoby\zavdania5\ekoslid\bin\Debug\net9.0-windows\ekoslid.pdb
+D:\zasoby\zavdania5\ekoslid\obj\Debug\net9.0-windows\ekoslid.GeneratedMSBuildEditorConfig.editorconfig
+D:\zasoby\zavdania5\ekoslid\obj\Debug\net9.0-windows\ekoslid.AssemblyInfoInputs.cache
+D:\zasoby\zavdania5\ekoslid\obj\Debug\net9.0-windows\ekoslid.AssemblyInfo.cs
+D:\zasoby\zavdania5\ekoslid\obj\Debug\net9.0-windows\ekoslid.csproj.CoreCompileInputs.cache
+D:\zasoby\zavdania5\ekoslid\obj\Debug\net9.0-windows\ekoslid.sourcelink.json
+D:\zasoby\zavdania5\ekoslid\obj\Debug\net9.0-windows\ekoslid.dll
+D:\zasoby\zavdania5\ekoslid\obj\Debug\net9.0-windows\refint\ekoslid.dll
+D:\zasoby\zavdania5\ekoslid\obj\Debug\net9.0-windows\ekoslid.pdb
+D:\zasoby\zavdania5\ekoslid\obj\Debug\net9.0-windows\ekoslid.genruntimeconfig.cache
+D:\zasoby\zavdania5\ekoslid\obj\Debug\net9.0-windows\ref\ekoslid.dll
