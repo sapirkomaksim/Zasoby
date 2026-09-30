@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\zasoby\\zavdania1\\opityvalnik\\opityvalnik.csproj": {}
+    "D:\\zasoby\\zavdania2\\treker\\treker.csproj": {}
   },
   "projects": {
-    "d:\\zasoby\\zavdania1\\opityvalnik\\opityvalnik.csproj": {
+    "D:\\zasoby\\zavdania2\\treker\\treker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\zasoby\\zavdania1\\opityvalnik\\opityvalnik.csproj",
-        "projectName": "opityvalnik",
-        "projectPath": "d:\\zasoby\\zavdania1\\opityvalnik\\opityvalnik.csproj",
+        "projectUniqueName": "D:\\zasoby\\zavdania2\\treker\\treker.csproj",
+        "projectName": "treker",
+        "projectPath": "D:\\zasoby\\zavdania2\\treker\\treker.csproj",
         "packagesPath": "C:\\Users\\sapir\\.nuget\\packages\\",
-        "outputPath": "d:\\zasoby\\zavdania1\\opityvalnik\\obj\\",
+        "outputPath": "D:\\zasoby\\zavdania2\\treker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
