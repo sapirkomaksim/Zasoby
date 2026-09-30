@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\zasoby\\zavdania7\\bron\\bron.csproj": {}
+    "D:\\zasoby\\zavdania8\\generator\\generator.csproj": {}
   },
   "projects": {
-    "d:\\zasoby\\zavdania7\\bron\\bron.csproj": {
+    "D:\\zasoby\\zavdania8\\generator\\generator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\zasoby\\zavdania7\\bron\\bron.csproj",
-        "projectName": "bron",
-        "projectPath": "d:\\zasoby\\zavdania7\\bron\\bron.csproj",
+        "projectUniqueName": "D:\\zasoby\\zavdania8\\generator\\generator.csproj",
+        "projectName": "generator",
+        "projectPath": "D:\\zasoby\\zavdania8\\generator\\generator.csproj",
         "packagesPath": "C:\\Users\\sapir\\.nuget\\packages\\",
-        "outputPath": "d:\\zasoby\\zavdania7\\bron\\obj\\",
+        "outputPath": "D:\\zasoby\\zavdania8\\generator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

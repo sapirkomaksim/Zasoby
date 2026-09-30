@@ -1,0 +1,15 @@
+D:\zasoby\zavdania8\generator\bin\Debug\net9.0-windows\generator.exe
+D:\zasoby\zavdania8\generator\bin\Debug\net9.0-windows\generator.deps.json
+D:\zasoby\zavdania8\generator\bin\Debug\net9.0-windows\generator.runtimeconfig.json
+D:\zasoby\zavdania8\generator\bin\Debug\net9.0-windows\generator.dll
+D:\zasoby\zavdania8\generator\bin\Debug\net9.0-windows\generator.pdb
+D:\zasoby\zavdania8\generator\obj\Debug\net9.0-windows\generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\zasoby\zavdania8\generator\obj\Debug\net9.0-windows\generator.AssemblyInfoInputs.cache
+D:\zasoby\zavdania8\generator\obj\Debug\net9.0-windows\generator.AssemblyInfo.cs
+D:\zasoby\zavdania8\generator\obj\Debug\net9.0-windows\generator.csproj.CoreCompileInputs.cache
+D:\zasoby\zavdania8\generator\obj\Debug\net9.0-windows\generator.sourcelink.json
+D:\zasoby\zavdania8\generator\obj\Debug\net9.0-windows\generator.dll
+D:\zasoby\zavdania8\generator\obj\Debug\net9.0-windows\refint\generator.dll
+D:\zasoby\zavdania8\generator\obj\Debug\net9.0-windows\generator.pdb
+D:\zasoby\zavdania8\generator\obj\Debug\net9.0-windows\generator.genruntimeconfig.cache
+D:\zasoby\zavdania8\generator\obj\Debug\net9.0-windows\ref\generator.dll
