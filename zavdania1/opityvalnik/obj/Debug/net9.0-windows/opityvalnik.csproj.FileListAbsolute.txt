@@ -1,0 +1,15 @@
+D:\zasoby\zavdania1\opityvalnik\bin\Debug\net9.0-windows\opityvalnik.exe
+D:\zasoby\zavdania1\opityvalnik\bin\Debug\net9.0-windows\opityvalnik.deps.json
+D:\zasoby\zavdania1\opityvalnik\bin\Debug\net9.0-windows\opityvalnik.runtimeconfig.json
+D:\zasoby\zavdania1\opityvalnik\bin\Debug\net9.0-windows\opityvalnik.dll
+D:\zasoby\zavdania1\opityvalnik\bin\Debug\net9.0-windows\opityvalnik.pdb
+D:\zasoby\zavdania1\opityvalnik\obj\Debug\net9.0-windows\opityvalnik.GeneratedMSBuildEditorConfig.editorconfig
+D:\zasoby\zavdania1\opityvalnik\obj\Debug\net9.0-windows\opityvalnik.AssemblyInfoInputs.cache
+D:\zasoby\zavdania1\opityvalnik\obj\Debug\net9.0-windows\opityvalnik.AssemblyInfo.cs
+D:\zasoby\zavdania1\opityvalnik\obj\Debug\net9.0-windows\opityvalnik.csproj.CoreCompileInputs.cache
+D:\zasoby\zavdania1\opityvalnik\obj\Debug\net9.0-windows\opityvalnik.sourcelink.json
+D:\zasoby\zavdania1\opityvalnik\obj\Debug\net9.0-windows\opityvalnik.dll
+D:\zasoby\zavdania1\opityvalnik\obj\Debug\net9.0-windows\refint\opityvalnik.dll
+D:\zasoby\zavdania1\opityvalnik\obj\Debug\net9.0-windows\opityvalnik.pdb
+D:\zasoby\zavdania1\opityvalnik\obj\Debug\net9.0-windows\opityvalnik.genruntimeconfig.cache
+D:\zasoby\zavdania1\opityvalnik\obj\Debug\net9.0-windows\ref\opityvalnik.dll

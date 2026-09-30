@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BMICalculato")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("opityvalnik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c12d1d7f32837fef86e16672e6bc5dfaa7a8587b")]
-[assembly: System.Reflection.AssemblyProductAttribute("BMICalculato")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BMICalculato")]
+[assembly: System.Reflection.AssemblyProductAttribute("opityvalnik")]
+[assembly: System.Reflection.AssemblyTitleAttribute("opityvalnik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
