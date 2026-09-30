@@ -1,0 +1,15 @@
+D:\zasoby\zavdania7\bron\bin\Debug\net9.0-windows\bron.exe
+D:\zasoby\zavdania7\bron\bin\Debug\net9.0-windows\bron.deps.json
+D:\zasoby\zavdania7\bron\bin\Debug\net9.0-windows\bron.runtimeconfig.json
+D:\zasoby\zavdania7\bron\bin\Debug\net9.0-windows\bron.dll
+D:\zasoby\zavdania7\bron\bin\Debug\net9.0-windows\bron.pdb
+D:\zasoby\zavdania7\bron\obj\Debug\net9.0-windows\bron.GeneratedMSBuildEditorConfig.editorconfig
+D:\zasoby\zavdania7\bron\obj\Debug\net9.0-windows\bron.AssemblyInfoInputs.cache
+D:\zasoby\zavdania7\bron\obj\Debug\net9.0-windows\bron.AssemblyInfo.cs
+D:\zasoby\zavdania7\bron\obj\Debug\net9.0-windows\bron.csproj.CoreCompileInputs.cache
+D:\zasoby\zavdania7\bron\obj\Debug\net9.0-windows\bron.sourcelink.json
+D:\zasoby\zavdania7\bron\obj\Debug\net9.0-windows\bron.dll
+D:\zasoby\zavdania7\bron\obj\Debug\net9.0-windows\refint\bron.dll
+D:\zasoby\zavdania7\bron\obj\Debug\net9.0-windows\bron.pdb
+D:\zasoby\zavdania7\bron\obj\Debug\net9.0-windows\bron.genruntimeconfig.cache
+D:\zasoby\zavdania7\bron\obj\Debug\net9.0-windows\ref\bron.dll
