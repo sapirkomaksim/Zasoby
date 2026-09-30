@@ -1,0 +1,14 @@
+D:\zasoby\Dz1\BMICalculato\obj\Debug\net9.0-windows\BMICalculato.GeneratedMSBuildEditorConfig.editorconfig
+D:\zasoby\Dz1\BMICalculato\obj\Debug\net9.0-windows\BMICalculato.AssemblyInfoInputs.cache
+D:\zasoby\Dz1\BMICalculato\obj\Debug\net9.0-windows\BMICalculato.AssemblyInfo.cs
+D:\zasoby\Dz1\BMICalculato\obj\Debug\net9.0-windows\BMICalculato.csproj.CoreCompileInputs.cache
+D:\zasoby\Dz1\BMICalculato\bin\Debug\net9.0-windows\BMICalculato.exe
+D:\zasoby\Dz1\BMICalculato\bin\Debug\net9.0-windows\BMICalculato.deps.json
+D:\zasoby\Dz1\BMICalculato\bin\Debug\net9.0-windows\BMICalculato.runtimeconfig.json
+D:\zasoby\Dz1\BMICalculato\bin\Debug\net9.0-windows\BMICalculato.dll
+D:\zasoby\Dz1\BMICalculato\bin\Debug\net9.0-windows\BMICalculato.pdb
+D:\zasoby\Dz1\BMICalculato\obj\Debug\net9.0-windows\BMICalculato.dll
+D:\zasoby\Dz1\BMICalculato\obj\Debug\net9.0-windows\refint\BMICalculato.dll
+D:\zasoby\Dz1\BMICalculato\obj\Debug\net9.0-windows\BMICalculato.pdb
+D:\zasoby\Dz1\BMICalculato\obj\Debug\net9.0-windows\BMICalculato.genruntimeconfig.cache
+D:\zasoby\Dz1\BMICalculato\obj\Debug\net9.0-windows\ref\BMICalculato.dll
