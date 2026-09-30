@@ -1,0 +1,15 @@
+D:\zasoby\zavdania10\analiz\bin\Debug\net9.0-windows\analiz.exe
+D:\zasoby\zavdania10\analiz\bin\Debug\net9.0-windows\analiz.deps.json
+D:\zasoby\zavdania10\analiz\bin\Debug\net9.0-windows\analiz.runtimeconfig.json
+D:\zasoby\zavdania10\analiz\bin\Debug\net9.0-windows\analiz.dll
+D:\zasoby\zavdania10\analiz\bin\Debug\net9.0-windows\analiz.pdb
+D:\zasoby\zavdania10\analiz\obj\Debug\net9.0-windows\analiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\zasoby\zavdania10\analiz\obj\Debug\net9.0-windows\analiz.AssemblyInfoInputs.cache
+D:\zasoby\zavdania10\analiz\obj\Debug\net9.0-windows\analiz.AssemblyInfo.cs
+D:\zasoby\zavdania10\analiz\obj\Debug\net9.0-windows\analiz.csproj.CoreCompileInputs.cache
+D:\zasoby\zavdania10\analiz\obj\Debug\net9.0-windows\analiz.sourcelink.json
+D:\zasoby\zavdania10\analiz\obj\Debug\net9.0-windows\analiz.dll
+D:\zasoby\zavdania10\analiz\obj\Debug\net9.0-windows\refint\analiz.dll
+D:\zasoby\zavdania10\analiz\obj\Debug\net9.0-windows\analiz.pdb
+D:\zasoby\zavdania10\analiz\obj\Debug\net9.0-windows\analiz.genruntimeconfig.cache
+D:\zasoby\zavdania10\analiz\obj\Debug\net9.0-windows\ref\analiz.dll

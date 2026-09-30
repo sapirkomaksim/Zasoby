@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\zasoby\\zavdania6\\zvyazok\\zvyazok.csproj": {}
+    "D:\\zasoby\\zavdania6\\zvyazok\\zvyazok.csproj": {}
   },
   "projects": {
-    "d:\\zasoby\\zavdania6\\zvyazok\\zvyazok.csproj": {
+    "D:\\zasoby\\zavdania6\\zvyazok\\zvyazok.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\zasoby\\zavdania6\\zvyazok\\zvyazok.csproj",
+        "projectUniqueName": "D:\\zasoby\\zavdania6\\zvyazok\\zvyazok.csproj",
         "projectName": "zvyazok",
-        "projectPath": "d:\\zasoby\\zavdania6\\zvyazok\\zvyazok.csproj",
+        "projectPath": "D:\\zasoby\\zavdania6\\zvyazok\\zvyazok.csproj",
         "packagesPath": "C:\\Users\\sapir\\.nuget\\packages\\",
-        "outputPath": "d:\\zasoby\\zavdania6\\zvyazok\\obj\\",
+        "outputPath": "D:\\zasoby\\zavdania6\\zvyazok\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
